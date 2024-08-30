@@ -1,0 +1,41 @@
+2024-08-30 12:47:25,008 - root - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\dev\Python_Urban\Python_Urban_Module12\tests_12_4.py", line 12, in test_walk
+    runner = Runner(name='Вяся', speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dev\Python_Urban\Python_Urban_Module12\HumanMoveTest\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
+2024-08-30 12:47:44,940 - root - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\dev\Python_Urban\Python_Urban_Module12\tests_12_4.py", line 12, in test_walk
+    runner = Runner(name='Вяся', speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dev\Python_Urban\Python_Urban_Module12\HumanMoveTest\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
+2024-08-30 12:48:08,101 - root - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\dev\Python_Urban\Python_Urban_Module12\tests_12_4.py", line 12, in test_walk
+    runner = Runner(name='Вяся', speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dev\Python_Urban\Python_Urban_Module12\HumanMoveTest\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
+2024-08-30 13:00:11,236 - root - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\dev\Python_Urban\Python_Urban_Module12\tests_12_4.py", line 12, in test_walk
+    runner = Runner(name='Вяся', speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dev\Python_Urban\Python_Urban_Module12\HumanMoveTest\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
+2024-08-30 13:00:38,713 - root - INFO - "test_run" выполнен успешно
+2024-08-30 13:00:38,714 - root - WARNING - Неверная скорость для Runner
+Traceback (most recent call last):
+  File "D:\dev\Python_Urban\Python_Urban_Module12\tests_12_4.py", line 12, in test_walk
+    runner = Runner(name='Вяся', speed=-5)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dev\Python_Urban\Python_Urban_Module12\HumanMoveTest\rt_with_exceptions.py", line 11, in __init__
+    raise ValueError(f'Скорость не может быть отрицательной, сейчас {speed}')
+ValueError: Скорость не может быть отрицательной, сейчас -5
